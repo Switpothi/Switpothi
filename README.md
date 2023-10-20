@@ -11,7 +11,7 @@ I'm 3rd of studies at Mahanakorn university of technology , major Information Te
 
 * 🌍  I'm based in BKK, Thailand
 * ✉️  You can contact me at [swittptnm@gmail.com](mailto:swittptnm@gmail.com)
-* 🧠  I'm learning React-native, .NET core and Containerliazation
+* 🧠  I'm learning React-native
 
 ### Skills
 
